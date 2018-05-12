@@ -1,0 +1,28 @@
+_repo: The-Art-of-Travel--13-Or-Shifts-and-Contrivances-Available-in-Wild-Countries_14681
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Galton, Francis
+    alias: Galton, Francis, Sir
+    birthdate: 1822
+    deathdate: 1911
+    gutenberg_agent_id: '4029'
+    url: http://www.gutenberg.org/2009/agents/4029
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Galton
+description: ''
+gutenberg_issued: '2005-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Travel'
+- !lcc 'G'
+title: The Art of Travel; Or, Shifts and Contrivances Available in Wild Countries
+url: http://www.gutenberg.org/ebooks/14681
